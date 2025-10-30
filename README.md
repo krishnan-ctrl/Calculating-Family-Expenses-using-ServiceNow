@@ -167,6 +167,10 @@ Special thanks to mentors and the ServiceNow Developer Community for guidance an
 
 👨‍💻 Author
 
-Name: KRISHNAN
-Department: Computer Science and Engineering (CSE)
-College: Grace College of Engineering, Thoothukudi
+Our Team Name:
+ KRISHNAN K
+ ESAKKI PANDI RAJA M
+ MANIKANDAN S
+ MANIKANDA PRABHU M
+ Department: Computer Science and Engineering (CSE)
+ College: Grace College of Engineering, Thoothukudi
