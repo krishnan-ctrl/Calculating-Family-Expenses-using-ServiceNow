@@ -122,35 +122,11 @@ Added a relationship query script to filter Daily Expenses records by matching d
 
 
 
-
-📸 Screenshots
-
-> Below are screenshots showing the project’s output 👇
-
-1. Family Expenses Table View
-
-
-
-2. Daily Expenses Table View
-
-
-
-3. Form Design Output
-
-
-
-4. Final Relationship Output
-
-
-
-
 🎥 Project Demo
 
   https://drive.google.com/file/d/1QBwREnmyJ05jNzaiGI6bfL7UKO3tAfuj/view?usp=drivesdk
 
-📄 Project Report
 
-📘 Download Project Report (PDF)
 
 
 
